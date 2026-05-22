@@ -1,5 +1,7 @@
 # Dokumentace druhého projektu do předmětu IPK - Spolehlivý přenos za pomocí UDP
 
+UPOZORNĚNÍ (pro budoucí ročníky): Schvaluji použití projektu jako inspiraci, ovšem nesouhlasím s jeho kopírováním a využíváním jádra projektu pro svůj akademický prospěch.
+
 ## Struktura hlavičky paketu
 ```
     0                   1                   2                   3   
