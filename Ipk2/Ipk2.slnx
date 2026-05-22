@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Ipk2.Tests/Ipk2.Tests.csproj" />
+  <Project Path="Ipk2/Ipk2.csproj" />
+</Solution>
